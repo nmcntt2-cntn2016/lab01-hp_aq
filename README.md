@@ -31,3 +31,19 @@ Bạn làm nó ntn? <br>
 Nội Dung Trang Mạng
 </body>
 </html>
+<html>
+<head>
+<title>chao anh thành</title>
+</head>
+<body>
+<a href=#A>A</a> | <a href=#B>B</a> | ... | <a href=#Z>Z</a></body>
+<hr>
+<a name=A>A
+a
+<hr>
+<a name=B>B
+b
+<hr>
+<a name=Z>Z
+z
+</html>
