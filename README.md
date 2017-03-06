@@ -7,7 +7,7 @@ Mô tả bạn đang làm gì <br>
 Tại sao bạn làm cái này? Đối tượng hướng tới <br>
 Bạn làm nó ntn? <br>
 
-	<pre> Đây là đoạn giải thích </pre>
+<pre> Đây là đoạn giải thích
 
 <html>
 <head>
