@@ -7,6 +7,8 @@ Mô tả bạn đang làm gì <br>
 Tại sao bạn làm cái này? Đối tượng hướng tới <br>
 Bạn làm nó ntn? <br>
 
+	<plaintext>Đây là đoạn giải thích</plaintext>
+
 <html>
 <head>
 <title>Tên Trang Mạng</title>
